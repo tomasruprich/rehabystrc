@@ -11,6 +11,5 @@ IČO 28360435
 Objednávky pacientů:
 objednavky@rehabystrc.cz
 tel. 737 811 798"
-
 permalink           : "/contact/"
 ---

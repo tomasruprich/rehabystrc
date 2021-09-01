@@ -1,5 +1,9 @@
-- title: O nás
+- title: Úvod
   url: "/"
+  side: left
+  
+- title: O nás
+  url: "/onas"
   side: left
 
 - title: "Péče"

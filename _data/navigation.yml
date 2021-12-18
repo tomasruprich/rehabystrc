@@ -3,7 +3,6 @@
   side: left
   
 - title: O nás
-  url: "/onas"
   side: left
   dropdown:
   - title: "Smluvní pojišťovny"

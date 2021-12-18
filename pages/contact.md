@@ -6,7 +6,7 @@ permalink           : "/contact/"
 ---
 
 
-<h3>Adresa:</br>
+<h3>Adresa:</h3>
 
 Kubíčkova 8
 Brno – Bystrc (Centrum MAX)

@@ -3,21 +3,24 @@
   side: left
   
 - title: O nás
+  url: "/onas"
   side: left
   dropdown:
+  - title: "Personální obsazení"
+    url: "/onas/lide"
   - title: "Smluvní pojišťovny"
     url: "/onas/pojistovny"
-  - title: Ceník
-    url: "/onas/cenik"
+  - title: Kariéra
+    url: "/onas/kariera"
 
 - title: "Péče"
   url: "/pece/"
   side: left
   dropdown:
-  - title: "Personální obsazení"
-    url: "/pece/lide"
   - title: "Přístrojové vybavení"
     url: "/pece/pristroje/"
+  - title: "Často kladené dotazy"
+    url: "/pece/faq/"
 
 - title: Aktuality
   url: "/aktuality/"

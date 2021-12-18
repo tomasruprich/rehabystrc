@@ -19,7 +19,7 @@ permalink           : "/contact/"
 email: objednavky@rehabystrc.cz<br/>
 telefon: 737 811 798
 
-<h3>Adresa/h3>
+<h3>Adresa</h3>
 
 Kubíčkova 8<br/>
 635 00<br/>

@@ -5,11 +5,8 @@ meta_title          : "Rehabilitace Bystrc s.r.o."
 permalink           : "/contact/"
 ---
 
-aaa
 
----
-subheadline: "Adresa"
----
+<h3>Adresa:</br>
 
 Kubíčkova 8
 Brno – Bystrc (Centrum MAX)
@@ -20,4 +17,4 @@ Objednávky pacientů:
 
 objednavky@rehabystrc.cz
 
-tel. 737 811 798"
+tel. 737 811 798

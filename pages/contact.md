@@ -6,6 +6,7 @@ permalink           : "/contact/"
 ---
 
 <h3>Provozní doba</h3>
+
 | Recepce | Ambulance lékaře | Ambulance fyzioterapie |
 |-------|-------|-------|
 | PO	7:00-11:30	12:00-14:00 | PO	7:00-11:30	12:00-15:30 | PO	7:00-11:30	12:00-19:00 |
@@ -15,8 +16,8 @@ permalink           : "/contact/"
 | PÁ	7:00-11:30	12:00-14:00 | PÁ	7:00-11:30	12:00-15:30 | PÁ	7:00-11:30	12:00-15:30 |
 
 <h3>Objednávky pacientů:</h3>
-objednavky@rehabystrc.cz<br/>
-tel. 737 811 798
+email: objednavky@rehabystrc.cz<br/>
+telefon: 737 811 798
 
 <h3>Adresa:</h3>
 
